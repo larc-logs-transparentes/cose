@@ -20,8 +20,8 @@ Performance tests for Election Transparency prototype, a project to increase tra
 In each machine, clone the repository and install the dependencies
 
 ```bash
-git clone https://github.com/larc-logs-transparentes/tdsc.git
-cd tdsc
+git clone https://github.com/larc-logs-transparentes/cose.git
+cd cose
 bash ./setup.sh
 ```
 
