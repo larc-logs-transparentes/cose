@@ -60,7 +60,7 @@ On another machine, install the dependencies and run the tests. For 50 samples, 
 
 ```bash
 # activate the Python virtual environment. 
-cd tdsc/
+cd cose/
 source .venv/bin/activate
 
 #  Run the tests. Substitute the <Logserver-IP> with the IP of the LogServer.
@@ -93,7 +93,7 @@ On another machine, install the dependencies and run the tests. For 50 samples, 
 
 ```bash
 # activate the Python virtual environment. 
-cd tdsc/
+cd cose/
 source .venv/bin/activate
 
 #  Run the tests. Substitute the <Logserver-IP> with the IP of the LogServer.
